@@ -1,4 +1,12 @@
 body {
     color:blue;
     background:powderblue;
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px hsl(229, 100%, 50%);
+    padding: 20px;
+    font-size: 30px;
+    color: hsl(229, 100%, 50%);
 }
