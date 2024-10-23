@@ -1,19 +1,19 @@
 body {
-    color:rgb(132, 196, 216);
-    background:powderblue;
+    color:rgb(241, 163, 211);
+    background:rgb(202, 24, 110);
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
 }
 
 header {
-    border-bottom: solid 2px hsl(229, 100%, 50%);
+    border-bottom: solid 2px hsl(308, 88%, 48%);
     padding: 20px;
     font-size: 30px;
-    color: hsl(229, 100%, 50%);
+    color: hsl(332, 96%, 28%);
 }
 
 section {
-    background: rgb(43, 90, 192);
+    background: rgb(204, 9, 171);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -30,4 +30,8 @@ h1 {
 
 p {
     font-size: 120%;
+}
+
+img{
+    height:200px
 }
